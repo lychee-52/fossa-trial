@@ -119,5 +119,5 @@
 #
 vendored-dependencies:
 - name: bash
-  path: ./
+  path: bash-3.2.57/
   version: 3.2.57
