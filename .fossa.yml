@@ -1,0 +1,5 @@
+analyze:
+  modules:
+    - name: bashtop-0.9.25
+      type: debian
+      path: ./
